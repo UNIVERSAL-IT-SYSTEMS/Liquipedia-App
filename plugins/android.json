@@ -1,0 +1,51 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.Liquipedia"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "net.Liquipedia"
+        }
+    },
+    "dependent_plugins": {}
+}

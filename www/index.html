@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--
+Copyright 2015 Liquipedia
+All rights reserved
+-->
+<html>
+	<head>
+		<title>Liquipedia App</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="css/main.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="js/config.js"></script>
+		<script type="text/javascript" src="js/settings.js"></script>
+		<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script type="text/javascript" src="js/functions.js"></script>
+	</head>
+	<body>
+		<div id="settings">
+			<ul></ul>
+			<button id="settings_load">Load Settings</button>
+			<button id="settings_save">Save Settings</button>
+		</div>
+		<div id="button">Reload</div>
+		<div id="content">Loading...</div>
+		
+		<!-- initialize apps -->
+		<script type="text/javascript" src="cordova.js"></script>
+		<script type="text/javascript" src="js/app.js"></script>
+	</body>
+</html>

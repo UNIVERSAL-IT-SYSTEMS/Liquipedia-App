@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Copyright 2015 Liquipedia
+${licensePrefix}All rights reserved
+<#if licenseLast??>
+${licenseLast}
+</#if>
